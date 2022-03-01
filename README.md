@@ -1,6 +1,6 @@
 # sonarqube
 
-## Käyttö
+## Käyttöohje
 
 Lataa [sonarqube](https://www.sonarqube.org/downloads/) ilmainen Community-versio ja asenna se C:\sonarqube\-kansioon. 
 Aja C:\sonarqube\bin\windows-x86-64>StartSonar.bat
