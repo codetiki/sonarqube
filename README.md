@@ -17,3 +17,5 @@ Menee skannattavan koodin juureen ja lisää sinne sonarqubesta saatu komentojon
 ![Kuva](./images/sonar-scanner.JPG)
 Kun skannaus on suoritettu onnistuneesti, mene sonarqube-sivustolle (http://localhost:9000/)
 ![Kuva](./images/sonarqube_result.JPG)
+![Kuva](./images/sonarqube_bugs.JPG)
+
