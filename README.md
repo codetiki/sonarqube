@@ -28,5 +28,7 @@ Skannaus lisää sonarqube-kansion koodiin.
 ![Kuva](./images/sonarqubeKansio.JPG)
 Tulokset C#-projektista
 ![Kuva](./images/sonarqube_result_Csharp.JPG)
+Kun haluat lopettaa, pysäytä sonarqube "Ctrl+c":llä.
+![Kuva](./images/sonarqube_end.JPG)
 
 
